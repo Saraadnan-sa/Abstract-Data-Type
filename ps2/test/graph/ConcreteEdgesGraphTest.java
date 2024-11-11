@@ -94,3 +94,4 @@ public class ConcreteEdgesGraphTest extends GraphInstanceTest {
         assertFalse("expected edge to be removed", graph.targets("A").containsKey("B"));
     }
 }
+

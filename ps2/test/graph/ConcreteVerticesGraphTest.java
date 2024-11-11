@@ -92,3 +92,4 @@ public class ConcreteVerticesGraphTest extends GraphInstanceTest {
         assertEquals("expected edge from A to B with weight 5", (Integer) 5, graph.targets("A").get("B"));
     }
 }
+

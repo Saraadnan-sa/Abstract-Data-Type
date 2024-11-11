@@ -81,3 +81,4 @@ public abstract class GraphInstanceTest {
         assertTrue("expected no other targets from vertex A", graph.targets("A").size() == 1);
     }
 }
+
